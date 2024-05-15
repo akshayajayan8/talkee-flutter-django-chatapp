@@ -2,15 +2,15 @@
 
 This is basic chat application developed with flutter and django with only basic chat features.This application have the feature of translating messages in some seleted languages.Also this app packs with a project management tool where users can create project by adding members,adding requirements,adding tasks reelated to requirements and assigning to members
 ## Features
--Otp Authentication
--Add friends 
--Chat with friends
--Accept or reject friend requests
--Search for users
--Translate messages in chatroom
--Create project
--Update tasks assigned
--Review Project completion level
+1.Otp Authentication
+2.Add friends 
+3.Chat with friends
+4.Accept or reject friend requests
+5.Search for users
+6.Translate messages in chatroom
+7.Create project
+8.Update tasks assigned
+9.Review Project completion level
 
 
 ## How to Run?
@@ -32,8 +32,8 @@ This is basic chat application developed with flutter and django with only basic
 
 Things to be remembered:
 
--The frontend of this app is connected to backend using localhost you can change the root variables if planning to host the backend
--Twilio and Translator uses internet connection so make sure you have a stable internet connection
+1.The frontend of this app is connected to backend using localhost you can change the root variables if planning to host the backend
+2.Twilio and Translator uses internet connection so make sure you have a stable internet connection
 
 
        
