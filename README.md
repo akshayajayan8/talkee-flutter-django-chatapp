@@ -29,10 +29,14 @@ This is basic chat application developed with flutter and django with only basic
 ### FrontEnd
 1. run flutter
 
-### Things to be remembered:
+## Things to be remembered:
 
 1. The frontend of this app is connected to backend using localhost you can change the root variables if planning to host the backend
 2. Twilio and Translator uses internet connection so make sure you have a stable internet connection
+
+## Screens
+![WhatsApp Image 2024-05-15 at 21 10 12 (1)](https://github.com/akcoder8/talkee-flutter-django-chatapp/assets/146500418/54d8cf1e-67e8-4c04-977f-089ac3cee24f)
+
 
 
        
