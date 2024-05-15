@@ -15,7 +15,7 @@ This is basic chat application developed with flutter and django with only basic
 
 ## How to Run?
 
-Setup backend server before running:
+### Setup backend server before running
 1. Open backend folder in vscode.
 2. Create a virtual environment for python.
 3. Activate the virtual environment.
@@ -26,7 +26,7 @@ Setup backend server before running:
     8. Open account in twilio and get a free phone number.
     9. Add Twilio credentials in last portion of settings.py in already declared variables.(Twilio is used here to send otp you can obtain your twilio credentials from twilio account page).
     10. Hit “python3 manage.py runserver”.
-FrontEnd:
+### FrontEnd
 
   1.run flutter
 
