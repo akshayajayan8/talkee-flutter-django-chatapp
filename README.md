@@ -32,8 +32,8 @@ This is basic chat application developed with flutter and django with only basic
 
 Things to be remembered:
 
-  -The frontend of this app is connected to backend using localhost you can change the root variables if planning to host the backend
-  -Twilio and Translator uses internet connection so make sure you have a stable internet connection
+-The frontend of this app is connected to backend using localhost you can change the root variables if planning to host the backend
+-Twilio and Translator uses internet connection so make sure you have a stable internet connection
 
 
        
