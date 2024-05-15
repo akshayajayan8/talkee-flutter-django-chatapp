@@ -23,9 +23,9 @@ This is basic chat application developed with flutter and django with only basic
 5. Hit “pip install -r requirements.txt” and enter in vscode shell to add dependencies
 6. Set up database(The app is configured for postgressql you can change it in settings.py)
 7. Add username,password of your db in settings.py DATABASES variable(not needed if default database of django is using)
-    8. Open account in twilio and get a free phone number.
-    9. Add Twilio credentials in last portion of settings.py in already declared variables.(Twilio is used here to send otp you can obtain your twilio credentials from twilio account page).
-    10. Hit “python3 manage.py runserver”.
+8. Open account in twilio and get a free phone number.
+9. Add Twilio credentials in last portion of settings.py in already declared variables.(Twilio is used here to send otp you can obtain your twilio credentials from twilio account page).
+10. Hit “python3 manage.py runserver”.
 ### FrontEnd
 1. run flutter
 
