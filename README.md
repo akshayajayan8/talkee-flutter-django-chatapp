@@ -35,7 +35,7 @@ This is basic chat application developed with flutter and django with only basic
 2. Twilio and Translator uses internet connection so make sure you have a stable internet connection
 
 ## Screens
-<img src="https://github.com/akcoder8/talkee-flutter-django-chatapp/assets/146500418/54d8cf1e-67e8-4c04-977f-089ac3cee24f" width=100px height=400px>
+<img src="https://github.com/akcoder8/talkee-flutter-django-chatapp/assets/146500418/54d8cf1e-67e8-4c04-977f-089ac3cee24f" width=150px height=500px>
 
 
 
