@@ -27,13 +27,12 @@ This is basic chat application developed with flutter and django with only basic
     9. Add Twilio credentials in last portion of settings.py in already declared variables.(Twilio is used here to send otp you can obtain your twilio credentials from twilio account page).
     10. Hit “python3 manage.py runserver”.
 ### FrontEnd
+1. run flutter
 
-  1.run flutter
+### Things to be remembered:
 
-Things to be remembered:
-
-1.The frontend of this app is connected to backend using localhost you can change the root variables if planning to host the backend
-2.Twilio and Translator uses internet connection so make sure you have a stable internet connection
+1. The frontend of this app is connected to backend using localhost you can change the root variables if planning to host the backend
+2. Twilio and Translator uses internet connection so make sure you have a stable internet connection
 
 
        
