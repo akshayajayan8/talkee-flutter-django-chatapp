@@ -2,15 +2,15 @@
 
 This is basic chat application developed with flutter and django with only basic chat features.This application have the feature of translating messages in some seleted languages.Also this app packs with a project management tool where users can create project by adding members,adding requirements,adding tasks reelated to requirements and assigning to members
 ## Features
-1.Otp Authentication
-2.Add friends 
-3.Chat with friends
-4.Accept or reject friend requests
-5.Search for users
-6.Translate messages in chatroom
-7.Create project
-8.Update tasks assigned
-9.Review Project completion level
+1. Otp Authentication
+2. Add friends 
+3. Chat with friends
+4. Accept or reject friend requests
+5. Search for users
+6. Translate messages in chatroom
+7. Create project
+8. Update tasks assigned
+9. Review Project completion level
 
 
 ## How to Run?
